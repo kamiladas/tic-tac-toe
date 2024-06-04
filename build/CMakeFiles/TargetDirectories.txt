@@ -1,0 +1,4 @@
+/home/adas/Desktop/tic_tac_toe/build/CMakeFiles/TicTacToe.dir
+/home/adas/Desktop/tic_tac_toe/build/CMakeFiles/edit_cache.dir
+/home/adas/Desktop/tic_tac_toe/build/CMakeFiles/rebuild_cache.dir
+/home/adas/Desktop/tic_tac_toe/build/CMakeFiles/TicTacToe_autogen.dir
